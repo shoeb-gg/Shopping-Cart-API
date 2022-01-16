@@ -1,0 +1,188 @@
+[
+  {
+    "id": "1",
+    "Title": "MSI B450 TOMAHAWK MAX II ATX GAMING MOTHERBOARD",
+    "Price": "10600",
+    "imgLink": "https://i.imgur.com/R7R5f3W.png"
+  },
+  {
+    "id": "2",
+    "Title": "CORSAIR HX SERIES HX1200 1200WATT 80 PLUS PLATINUM CERTIFIED FULLY MODULAR POWER SUPPLY",
+    "Price": "27000",
+    "imgLink": "https://i.imgur.com/IiYvhTy.png"
+  },
+  {
+    "id": "3",
+    "Title": "CORSAIR VENGEANCE LPX 16GB DDR4 3200MHZ DESKTOP RAM\r\n",
+    "Price": "7200",
+    "imgLink": "https://i.imgur.com/Su85QvK.jpg"
+  },
+  {
+    "id": "4",
+    "Title": "MONTECH Z3 PRO ARGB PWM 3-IN-1 FAN",
+    "Price": "2700",
+    "imgLink": "https://i.imgur.com/6vuUUzL.jpg"
+  },
+  {
+    "id": "5",
+    "Title": "INTEL CORE I5-10600K 6 CORE 12 THREAD 10TH GEN PROCESSOR\r\n",
+    "Price": "21300",
+    "imgLink": "https://i.imgur.com/i9hnAvv.jpg"
+  },
+  {
+    "id": "6",
+    "Title": "WALTON WS5256D 256GB 2.5\u201d SATA III SSD WITH DRAM CACHE\r\nForm Factor:2.5\u201d SSD 7mm\r\n",
+    "Price": "4200",
+    "imgLink": "https://i.imgur.com/W2uEqcx.jpg"
+  },
+  {
+    "id": "7",
+    "Title": "CORSAIR VENGEANCE RGB PRO 8GB DDR4 3200MHZ DESKTOP RAM\r\n",
+    "Price": "4300",
+    "imgLink": "https://i.imgur.com/Y2BXZu8.jpg"
+  },
+  {
+    "id": "8",
+    "Title": "CORSAIR CV SERIES CV650 650 WATT 80 PLUS BRONZE CERTIFIED POWER SUPPLY\r\n",
+    "Price": "5400",
+    "imgLink": "https://i.imgur.com/wSA6OxQ.png"
+  },
+  {
+    "id": "9",
+    "Title": "TRANSCEND 230S 2.5 INCH 256GB SATAIII SSD",
+    "Price": "4400",
+    "imgLink": "https://i.imgur.com/H69gixG.jpg"
+  },
+  {
+    "id": "10",
+    "Title": "GIGABYTE Z590 AORUS PRO AX LGA 1200 ATX MOTHERBOARD",
+    "Price": "33000",
+    "imgLink": "https://i.imgur.com/0qo1yg5.jpg"
+  },
+  {
+    "id": "11",
+    "Title": "G.SKILL TRIDENT Z ROYAL SERIES 32GB (2X16GB) 3200MHZ RGB SILVER DDR4 RAM",
+    "Price": "17000",
+    "imgLink": "https://i.imgur.com/zTt8U2W.jpg"
+  },
+  {
+    "id": "12",
+    "Title": "NZXT MANTA MINI ITX CASE BLACK\r\n",
+    "Price": "8400",
+    "imgLink": "https://i.imgur.com/iY3JO48.jpg"
+  },
+  {
+    "id": "13",
+    "Title": "NZXT AER F140 140MM CASE FAN\r\n",
+    "Price": "1900",
+    "imgLink": "https://i.imgur.com/giARRls.jpg"
+  },
+  {
+    "id": "14",
+    "Title": "DEEPCOOL GAMMAXX 400K CPU AIR COOLER",
+    "Price": "2200",
+    "imgLink": "https://i.imgur.com/STbQOCo.jpg"
+  },
+  {
+    "id": "15",
+    "Title": "DEEPCOOL GAMMAXX 400G CPU AIR COOLER",
+    "Price": "1700",
+    "imgLink": "https://i.imgur.com/C2nAJzO.jpg"
+  },
+  {
+    "id": "16",
+    "Title": "ASUS ROG STRIX TRX40-XE GAMING AMD ATX WIFI MOTHERBOARD\r\n",
+    "Price": "54500",
+    "imgLink": "https://i.imgur.com/fGRP39g.jpg"
+  },
+  {
+    "id": "17",
+    "Title": "LIAN LI GALAHAD 360 ARGB 360MM ALL IN ONE LIQUID CPU COOLER (WHITE)\r\n",
+    "Price": "12500",
+    "imgLink": "https://i.imgur.com/yDVGMag.jpg"
+  },
+  {
+    "id": "18",
+    "Title": "CORSAIR DOMINATOR PLATINUM RGB 8GB DDR4 3200MHZ DESKTOP RAM\r\n",
+    "Price": "5900",
+    "imgLink": "https://i.imgur.com/ENMz9sj.jpg"
+  },
+  {
+    "id": "19",
+    "Title": "ANTEC C400 GLACIAL AIR CPU COOLER (WHITE)\r\n",
+    "Price": "2950",
+    "imgLink": "https://i.imgur.com/keTstV2.jpg"
+  },
+  {
+    "id": "20",
+    "Title": "AMD ATHLON 3000G 2 CORE 4 THREAD AM4 PROCESSOR WITH RADEON VEGA 3 GRAPHICS",
+    "Price": "7500",
+    "imgLink": "https://i.imgur.com/tYYSoWp.jpg"
+  },
+  {
+    "id": "21",
+    "Title": "CORSAIR H55 RGB 120MM ALL IN ONE LIQUID CPU COOLER\r\n",
+    "Price": "6000",
+    "imgLink": "https://i.imgur.com/hc6Tf1V.jpg"
+  },
+  {
+    "id": "22",
+    "Title": "DEEPCOOL GAMMAXX L240 V2 RGB 240MM ALL IN ONE LIQUID CPU COOLER",
+    "Price": "7000",
+    "imgLink": "https://i.imgur.com/muNc3It.jpg"
+  },
+  {
+    "id": "23",
+    "Title": "WESTERN DIGITAL 2TB SATA PURPLE INTERNAL HARD DISK",
+    "Price": "5400",
+    "imgLink": "https://i.imgur.com/dG6c7nh.jpg"
+  },
+  {
+    "id": "24",
+    "Title": "NZXT AER RGB 2 140MM CASE FAN\r\n",
+    "Price": "2800",
+    "imgLink": "https://i.imgur.com/Skum5VM.jpg"
+  },
+  {
+    "id": "25",
+    "Title": "ASUS ROG STRIX GEFORCE RTX 3080 TI OC 12GB GDDR6X GAMING GRAPHICS CARD",
+    "Price": "233500",
+    "imgLink": "https://i.imgur.com/LklRMhi.png"
+  },
+  {
+    "id": "26",
+    "Title": "MONTECH X1 MESH WHITE TEMPERED GLASS ATX MID-TOWER GAMING CASE",
+    "Price": "4299",
+    "imgLink": "https://i.imgur.com/MZXvZXU.jpg"
+  },
+  {
+    "id": "27",
+    "Title": "ZOTAC GAMING GEFORCE RTX 3060 TWIN EDGE OC 12GB GRAPHICS CARD",
+    "Price": "70000",
+    "imgLink": "https://i.imgur.com/ei9mDFu.jpg"
+  },
+  {
+    "id": "28",
+    "Title": "MSI GEFORCE RTX 3090 GAMING X TRIO 24GB GRAPHICS CARD",
+    "Price": "249000",
+    "imgLink": "https://i.imgur.com/sTnlwUL.png"
+  },
+  {
+    "id": "29",
+    "Title": "CORSAIR ICUE SP120 RGB PRO 120MM FAN",
+    "Price": "1100",
+    "imgLink": "https://i.imgur.com/C9P69UW.jpg"
+  },
+  {
+    "id": "30",
+    "Title": "VALUE-TOP MANIA G2 E-ATX GAMING CASE",
+    "Price": "4100",
+    "imgLink": "https://i.imgur.com/sBXrXJZ.jpg"
+  },
+  {
+    "id": "31",
+    "Title": "PHILIPS 18.5\" 193V5LHSB2 HDMI LCD MONITOR\r\n",
+    "Price": "9700",
+    "imgLink": "https://i.imgur.com/85ccJXl.png"
+  }
+]
